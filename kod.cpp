@@ -1,4 +1,4 @@
-#include<iostream>
+
 #include<cmath>
 #include<cstdlib>
 #include <time.h>
@@ -71,6 +71,7 @@ int main()
 	}
 	
      cout <<"\n";
+	cout
      cout <<"Suma elementow Tablicy wynosi: "<<suma<<"\n";
      cout <<"Suma parzystych elementow Tablicy wynosi: "<<suma_parzysta<<"\n";
      cout <<"Suma nieparzystych elementow tablicy wynosi: "<<suma_nieparzysta<<"\n";

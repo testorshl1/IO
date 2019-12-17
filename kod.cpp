@@ -79,7 +79,7 @@ int main()
      cout <<"Najwiekszy element tablicy wynosi: "<<max<<"\n";
      cout <<"Srednia geometryczna elementow tablicy wynosi: "<<max<<"\n";
      
-    system("pause2");
+    
     return 0;
 }
 

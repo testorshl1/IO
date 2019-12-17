@@ -1,6 +1,6 @@
 
 
-#include<iostream>
+#include<iostream>dsdsfsfds
 #include<cmath>
 #include<cstdlib>
 #include <time.h>
@@ -20,7 +20,7 @@ using namespace std;
    
 int przeliczanie(struct czas t1, struct czas t2)
 {
-//Przeliczenie czasów 
+//Przeliczenie czasÃ³w 
     sekunda_1 = t1.g*3600 + t1.m*60 +t1.s;
     sekunda_2 = t2.g*3600 + t2.m*60 +t2.s;
      
@@ -60,11 +60,11 @@ int main()
 //-----------------------------------   
  
     
-    //Ró?nica 
+    //RÃ³?nica 
     przeliczanie(t1,t2);
     cout<<"Roznica czasow wynosi "<<Rs<<"\n";
      
-    //Przeliczanie ró?nicy na godziny minuty sekundy
+    //Przeliczanie rÃ³?nicy na godziny minuty sekundy
      
     
      
